@@ -10,8 +10,9 @@ bs4==0.0.1
 pymongo
 dnspython
 marshmallow
-umongo
-motor
+
+umongo==3.0.0
+marshmallow==3.18.0
 
 #---ytdl----#
 youtube-search-python
