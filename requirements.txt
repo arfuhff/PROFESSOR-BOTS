@@ -9,8 +9,7 @@ bs4==0.0.1
 #---database---#
 pymongo
 dnspython
-marshmallow
-
+motor
 umongo==3.0.0
 marshmallow==3.18.0
 
